@@ -1,0 +1,177 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=20mm
+      - left=15mm
+      - right=15mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}(XXX) XXX-XXXX ∙ acbass49@gmail.com ∙ \href{https://alexbass.me/}{Portfolio} ∙ \href{https://github.com/acbass49}{Github}\end{center}
+\vspace{15pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of Virgina}\end{flushleft}
+    \begin{flushright}Expected Apr 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Master of Science: Data Science\end{flushleft}
+    \begin{flushright}Charlottesville, VA\end{flushright}
+  \end{multicols}
+  \vspace{0.15cm}
+\end{large}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Brigham Young University}\end{flushleft}
+    \begin{flushright}Apr 2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Arts: Computational Political Science\end{flushleft}
+    \begin{flushright}Provo, UT\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \textit{Thesis: Political Message Detection and Likeability in Films (n=1000 survey)}
+\end{large}
+\vspace{3pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Dynata}}\end{flushleft}
+    \begin{flushright}Aug 2022-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Scientist}\end{flushleft}
+    \begin{flushright}Herndon, VA\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://morningconsult.com/}{Morning Consult}}\end{flushleft}
+    \begin{flushright}Nov 2021-Aug 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Senior Data Analyst}\end
+    {flushleft}\begin{flushright}Washington, D.C.\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
+* In conjunction with other data scientists on a large project, developed and performed statistical tests on time series data in 17 surveys of 5 countries in over 200 tables
+* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists), saving company $10,000s in time and errors
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://echeloninsights.com/}{Echelon Insights}}\end{flushleft}
+    \begin{flushright}April 2020-Nov 2021\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Research Analyst}\end{flushleft}
+    \begin{flushright}Alexandria, VA\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Led in modeling projects predicting election turnout for entire U.S. in 2022, phone response rates, etc.
+* Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
+* Using R Shiny, built a codeless-crosstab tool for company’s research team
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 4TH BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\end{flushleft}
+    \begin{flushright}Dec 2018-April 2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Undergraduate Research Fellow}\end{flushleft}
+    \begin{flushright}Provo, UT\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Designed and executed multiple survey experiments in original research projects
+* Mentored 60+ students in solving econometrics problems in weekly office hours
+* Visualized data using R creating 50+ informative figures for the AFS official report, news outlets, and professor’s projects
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 1ST BULLET -->
+\begin{large}
+  {\bf PERSONAL PORTFOLIO PROJECTS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/county-level-analysis-of-school-shootings/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
+    \begin{flushright}August 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/2021-10-22-covid-update/}{Weekly COVID Email Update}}\end{flushleft}
+    \begin{flushright}November 2021\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Fully automated workflow (Github Actions) taking latest CDC data, transforming into visualizations, and sending informative email every Saturday morning to subscribers made in R
+* encrypted all API tokens via custom encryption (R package Sodium) + github environment variables so repository can be publicly viewable
+* Each subscriber recieves national data and state-level data customizable to their home state
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/election-model/}{US 2020 Election Model}}\end{flushleft}
+    \begin{flushright}November 2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Created visualization dashboard with plotly displaying daily results of statistical model
+* Generated 1000 simulations daily of election winner based on a probabilities from model for each state
+* Modeled and adjusted for survey error using fixed effects regression
