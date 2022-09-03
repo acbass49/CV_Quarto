@@ -1,4 +1,4 @@
-# CV_Quarto
+# Simple Quarto Resume Template
 My personal CV template with Latex and Quarto.  
 
 Wrote up a blog post about this [here](https://alexbass.me/post/resume-template-with-latex-and-quarto/). 
