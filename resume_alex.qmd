@@ -24,7 +24,8 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}(XXX) XXX-XXXX ∙ acbass49@gmail.com ∙ \href{https://alexbass.me/}{Portfolio} ∙ \href{https://github.com/acbass49}{Github}\end{center}
+\begin{center}acbass49@gmail.com ∙ \href{https://alexbass.me/}{Portfolio} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn}
+\end{center}
 \vspace{15pt}
 
 <!-- EDUCATION: 1ST BULLET -->
