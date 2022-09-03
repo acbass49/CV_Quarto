@@ -3,9 +3,10 @@ format:
   pdf: 
     documentclass: article
     geometry:
-      - top=20mm
+      - top=15mm
       - left=15mm
       - right=15mm
+      - bottom=15mm
       - heightrounded
     fontfamily: libertinus
     colorlinks: true
