@@ -8,11 +8,11 @@ quarto render resume_alex.qmd --to pdf
 
 mv resume_alex.pdf cv.pdf
 
-cp cv.pdf ~/Documents/Rprojects/acbass49-data_projects_web/static/files
+cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/files
 
 cp cv.pdf ~/Documents/Application_Materials/
 
-cd ~/Documents/Rprojects/acbass49-data_projects_web
+cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 git pull
 
