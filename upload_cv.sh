@@ -16,7 +16,7 @@ cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 git pull
 
-git add static/files/cv.pdf
+git add files/cv.pdf
 
 git commit -m 'update cv '$(date +%d.%m.%y-%H:%M:%S)
 
