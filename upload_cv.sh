@@ -12,13 +12,13 @@ cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/f
 
 cp cv.pdf ~/Documents/Application_Materials/
 
-cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/_site/files
+quarto render ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 git pull
 
-git add files/cv.pdf
+git add .
 
 git commit -m 'update cv '$(date +%d.%m.%y-%H:%M:%S)
 
