@@ -12,6 +12,8 @@ cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/f
 
 cp cv.pdf ~/Documents/Application_Materials/
 
+cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/_site/files
+
 cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 git pull
