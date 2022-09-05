@@ -143,7 +143,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/county-level-analysis-of-school-shootings/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
     \begin{flushright}August 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -155,7 +155,7 @@ format:
 <!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/2021-10-22-covid-update/}{Weekly COVID Email Update}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://alexbass.me/posts/covid_update/}{Weekly COVID Email Update}}\end{flushleft}
     \begin{flushright}November 2021\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -169,7 +169,7 @@ format:
 <!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/election-model/}{US 2020 Election Model}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://alexbass.me/posts/election_model/}{US 2020 Election Model}}\end{flushleft}
     \begin{flushright}November 2020\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
