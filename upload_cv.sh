@@ -2,7 +2,7 @@
 # A script that pushes my csv and updates my files
 CWD=$(pwd)
 
-cd ~/OneDrive/PyProjects/CV_Quarto
+cd ~/OneDrive/Quarto/CV_Quarto
 
 quarto render resume_alex.qmd --to pdf
 
@@ -24,7 +24,7 @@ git commit -m 'update cv '$(date +%d.%m.%y-%H:%M:%S)
 
 git push
 
-cd ~/OneDrive/PyProjects/CV_Quarto
+cd ~/OneDrive/Quarto/CV_Quarto
 
 git pull
 
