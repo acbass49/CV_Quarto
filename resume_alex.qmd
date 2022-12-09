@@ -76,6 +76,7 @@ format:
   {multicols}
 \end{large}
 \vspace{-0.16cm}
+* Built diff-in-diff and multi-touch attribution modeling codebase in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
 
 \vspace{7pt}
 
