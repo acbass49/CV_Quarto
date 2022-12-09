@@ -71,12 +71,12 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Scientist}\end{flushleft}
+    \begin{flushleft}\textit{Data Scientist, Ad Solutions}\end{flushleft}
     \begin{flushright}Herndon, VA\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built diff-in-diff and multi-touch attribution modeling codebase in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
+* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
 
 \vspace{7pt}
 
@@ -94,9 +94,9 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
 * In conjunction with other data scientists on a large project, developed and performed statistical tests on time series data in 17 surveys of 5 countries in over 200 tables
 * Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists), saving company $10,000s in time and errors
+* Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
 
 \vspace{7pt}
 
