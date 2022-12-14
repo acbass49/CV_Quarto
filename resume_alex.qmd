@@ -42,8 +42,11 @@ format:
     \begin{flushleft}Master of Science: Data Science\end{flushleft}
     \begin{flushright}Charlottesville, VA\end{flushright}
   \end{multicols}
-  \vspace{0.15cm}
+  \vspace{-0.25cm}
+  \textit{Capstone Sponsored by \href{https://archive.org/}{The Internet Archive}: Wikipedia NLP Link Matching Algorithm}
 \end{large}
+
+\vspace{0.2cm}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
@@ -57,7 +60,7 @@ format:
     \begin{flushright}Provo, UT\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
-  \textit{Thesis: Political Message Detection and Likeability in Films (n=1000 survey)}
+  \textit{Capstone: Political Message Detection and Likeability in Films(n=1000)}
 \end{large}
 \vspace{3pt}
 
@@ -76,7 +79,7 @@ format:
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
+* Built diff-in-diff and multi-touch attribution **model codebase** in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
 
 \vspace{7pt}
 
@@ -144,37 +147,36 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
+    \begin{flushleft}\textit{\href{https://github.com/acbass49/predicting_country}{Predicting AirBnB Bookings with Apache Spark}}\end{flushleft}
+    \begin{flushright}December 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
+* Used **ONLY Apache Spark (PySpark) in a distributed environment** to solve a classification problem. 
+* Coded a full data-pipeline: wrangling and joining data, EDA, feature engineering, model selection with a grid search (Lasso, Ridge, Naive Bayes, Random Forest, GBT), model evaluation, and full project write-up and analysis
 
 \vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/covid_update/}{Weekly COVID Email Update}}\end{flushleft}
-    \begin{flushright}November 2021\end{flushright}
+    \begin{flushleft}\textit{\href{https://github.com/acbass49/urban_audio_classification}{CNN Classification of Urban Sounds}}\end{flushleft}
+    \begin{flushright}December 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Fully automated workflow (Github Actions) taking latest CDC data, transforming into visualizations, and sending informative email every Saturday morning to subscribers made in R
-* encrypted all API tokens via custom encryption (R package Sodium) + github environment variables so repository can be publicly viewable
-* Each subscriber recieves national data and state-level data customizable to their home state
+* Extracted features such as MFCC, Chromagram, Spectral Contrast from 8000+ audio clips using Python.
+* Estimated models custom and popular CNN architectures (AlexNet, GoogLeNet, etc.) using Tensorflow and Keras.
+* Full project write-up and code on Github.
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 3RD BULLET -->
+<!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/election_model/}{US 2020 Election Model}}\end{flushleft}
-    \begin{flushright}November 2020\end{flushright}
+    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
+    \begin{flushright}August 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Created visualization dashboard with plotly displaying daily results of statistical model
-* Generated 1000 simulations daily of election winner based on a probabilities from model for each state
-* Modeled and adjusted for survey error using fixed effects regression
+* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
