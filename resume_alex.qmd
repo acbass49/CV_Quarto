@@ -56,7 +56,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Bachelor of Arts: Computational Political Science\end{flushleft}
+    \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
     \begin{flushright}Provo, UT\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
