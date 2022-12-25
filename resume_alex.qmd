@@ -3,10 +3,10 @@ format:
   pdf: 
     documentclass: article
     geometry:
-      - top=15mm
+      - top=10mm
       - left=15mm
       - right=15mm
-      - bottom=15mm
+      - bottom=5mm
       - heightrounded
     fontfamily: libertinus
     colorlinks: true
@@ -35,12 +35,11 @@ format:
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf University of Virgina}\end{flushleft}
-    \begin{flushright}Expected Apr 2023\end{flushright}
+    \begin{flushright}Charlottesville, VA\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}Master of Science: Data Science\end{flushleft}
-    \begin{flushright}Charlottesville, VA\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
   \textit{Capstone Sponsored by \href{https://archive.org/}{The Internet Archive}: Wikipedia NLP Link Matching Algorithm}
@@ -52,17 +51,25 @@ format:
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf Brigham Young University}\end{flushleft}
-    \begin{flushright}Apr 2020\end{flushright}
+    \begin{flushright}Provo, UT\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
   \end{multicols}
   \vspace{-0.25cm}
-  \textit{Capstone: Political Message Detection and Likeability in Films(n=1000)}
+  \textit{Capstone: Political Message Detection and Likeability in Films(n=1000 survey)}
 \end{large}
 \vspace{3pt}
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+**Languages and Tools** - Python, R, Spark, Bash, Git, Docker, SQL, Tableau, Github Actions, Quarto   
+**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
