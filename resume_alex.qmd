@@ -42,7 +42,7 @@ format:
     \begin{flushleft}Master of Science: Data Science\end{flushleft}
   \end{multicols}
   \vspace{-0.25cm}
-  \textit{Capstone Sponsored by \href{https://archive.org/}{The Internet Archive}: Wikipedia NLP Link Matching Algorithm}
+  \textit{\href{https://archive.org/}{Internet Archive} Sponsored Capstone: Wikipedia NLP Book Matching Algorithm}
 \end{large}
 
 \vspace{0.2cm}
@@ -68,7 +68,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Git, Docker  
+**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
 **Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -86,8 +86,8 @@ format:
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built diff-in-diff and multi-touch attribution **model codebase** in Python(OOP) for Ad Data Science Team. This codebase has saved 100+ hours and brought over in $2 million in revenue to date
-* Using this codebase, I delivered 15+ diff-in-diff and MTA studies to high profile clients including 10+ to marketing teams at Google and Meta
+* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team. This codebase has **saved 100+ hours and brought over in $2 million in revenue to date**
+* Delivered 30+ advanced analytical studies (MTA, drivers analysis, diff-in-diff) to high profile clients including 15+ to marketing teams at **Google and Meta**
 
 \vspace{7pt}
 
@@ -105,7 +105,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Developed and automated wave-over-wave statistical tests on time series data in 17 tracker surveys of 5 countries
+* **Developed and automated wave-over-wave statistical tests on time series data** in 17 tracker surveys of 5 countries
 * Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists)
 * Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
 
@@ -124,7 +124,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Led in modeling projects predicting election turnout for entire U.S. in 2022, phone response rates, etc.
+* Led in modeling projects **predicting election turnout for entire U.S. in 2022**, phone response rates, etc.
 * Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
 * Using R Shiny, built a codeless-crosstab tool for company’s research team
 
@@ -160,7 +160,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
+* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used **hierarchal negative binomial model** to predict shootings and make inferences about gun laws
 
 \vspace{7pt}
 
