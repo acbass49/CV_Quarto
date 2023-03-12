@@ -68,7 +68,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Languages and Tools** - Python, R, Spark, Bash, Git, Docker, SQL, Tableau, Github Actions, Quarto   
+**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Git, Docker  
 **Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -86,8 +86,8 @@ format:
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built diff-in-diff and multi-touch attribution **model codebase** in Python(OOP) for Ad Data Science Team and spec requesting these studies for Research Team. This code base has saved 100+ hours and brought in $100,000s in revenue.
-
+* Built diff-in-diff and multi-touch attribution **model codebase** in Python(OOP) for Ad Data Science Team. This codebase has saved 100+ hours and brought over in $2 million in revenue to date
+* Using this codebase, I delivered 15+ diff-in-diff and MTA studies to high profile clients including 10+ to marketing teams at Google and Meta
 
 \vspace{7pt}
 
@@ -105,8 +105,8 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* In conjunction with other data scientists on a large project, developed and performed statistical tests on time series data in 17 surveys of 5 countries in over 200 tables
-* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists), saving company $10,000s in time and errors
+* Developed and automated wave-over-wave statistical tests on time series data in 17 tracker surveys of 5 countries
+* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists)
 * Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
 
 \vspace{7pt}
@@ -151,16 +151,16 @@ format:
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
-  {\bf PERSONAL PORTFOLIO PROJECTS}
+{\bf PERSONAL PORTFOLIO PROJECTS}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/predicting_bookings}{Predicting AirBnB Bookings with Apache Spark}}\end{flushleft}
-    \begin{flushright}December 2022\end{flushright}
+    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
+    \begin{flushright}August 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Coded a full data-pipeline using **ONLY Apache Spark** (PySpark): wrangling and joining data, EDA, feature engineering, model selection with a grid search (Lasso, Ridge, Naive Bayes, Random Forest, GBT), model evaluation, and full project write-up and analysis
+* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
 
 \vspace{7pt}
 
@@ -178,12 +178,12 @@ format:
 
 \vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 2ND BULLET -->
+<!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
+    \begin{flushleft}\textit{\href{https://github.com/acbass49/predicting_bookings}{Predicting AirBnB Bookings with Apache Spark}}\end{flushleft}
+    \begin{flushright}December 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used hierarchal negative binomial model to predict shootings and make inferences about gun laws
+* Coded a full data-pipeline using **ONLY Apache Spark** (PySpark): wrangling and joining data, EDA, feature engineering, model selection with a grid search (Lasso, Ridge, Naive Bayes, Random Forest, GBT), model evaluation, and full project write-up and analysis
