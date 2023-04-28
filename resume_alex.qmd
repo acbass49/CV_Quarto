@@ -173,7 +173,7 @@ format:
   \vspace{-0.17cm}
 \end{large}
 * Extracted features such as MFCC, Chromagram, Spectral Contrast from 8000+ audio clips using Python
-* **Estimated custom CNN model** and other popular CNN architectures (AlexNet, GoogLeNet, etc.) using Tensorflow and Keras
+* **Estimated custom CNN model** and other popular CNN architectures (AlexNet, GoogLeNet, etc.) by Tensorflow/Keras
 * Full project write-up and code on Github
 
 \vspace{7pt}
