@@ -24,7 +24,7 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}acbass49@gmail.com ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://alexbass.me/blog.html#category=Project}{Blog} ∙ \href{https://www.linkedin.com/in/ alex-bass-4a7465161/}{LinkedIn}
+\begin{center}acbass49@gmail.com ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://alexbass.me/projects.html}{Portfolio} ∙ \href{https://www.linkedin.com/in/ alex-bass-4a7465161/}{LinkedIn}
 \end{center}
 \vspace{15pt}
 
@@ -42,7 +42,7 @@ format:
     \begin{flushleft}Master of Science: Data Science\end{flushleft}
   \end{multicols}
   \vspace{-0.25cm}
-  \textit{\href{https://archive.org/}{Internet Archive} Sponsored Capstone: \href{https://github.com/acbass49/wiki2ia}{Entity Resolution: Wikipedia Citations to Internet Archive API}}
+  \textit{\href{https://archive.org/}{Internet Archive} Sponsored Capstone: \href{https://alexbass.me/projects/internet_archive/}{Entity Resolution: Wikipedia Citations to Internet Archive API}}
 \end{large}
 
 \vspace{0.2cm}
@@ -145,7 +145,7 @@ format:
 \vspace{-0.16cm}
 * Designed and executed multiple survey experiments in original research projects
 * Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for the AFS official report, news outlets, and professor’s projects
+* Visualized data using R creating 50+ informative figures for the \href{https://csed.byu.edu/0000017e-2611-d5d4-a57f-277126ef0001/american-family-survey-2019-report-pdf}{AFS official report}, news outlets, and professor’s projects
 
 \vspace{7pt}
 
@@ -155,7 +155,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/posts/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/bayesian_county/}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
     \begin{flushright}August 2022\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
