@@ -43,7 +43,7 @@ format:
     \begin{flushleft}Master of Science: Data Science\end{flushleft}
   \end{multicols}
   \vspace{-0.25cm}
-  \textit{\href{https://archive.org/}{Internet Archive} Sponsored Capstone: \href{https://alexbass.me/projects/internet_archive/}{Entity Resolution: Wikipedia Citations to Internet Archive API}}
+  \textit{\href{https://archive.org/}{Internet Archive} Sponsored Capstone: \href{https://alexbass.me/projects/internet_archive/}{Entity Resolution Algorithm with Gradient Boosted Trees}}
 \end{large}
 
 \vspace{0.2cm}
