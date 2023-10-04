@@ -103,7 +103,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Solved entity resolution problem with Gradient Boosted Trees \href{https://alexbass.me/projects/internet_archive/}{[here]} linking sparse wikipedia references to Internet Archive Database References
+* **Solved entity resolution problem with Gradient Boosted Trees** \href{https://alexbass.me/projects/internet_archive/}{[here]} linking sparse wikipedia references to Internet Archive Database References
 * Implemented model in Python \href{https://github.com/acbass49/wiki2ia}{[here]} which, given a wikipedia reference, will return a match in the Internet Archive Database along with a probability of matching.
 
 \vspace{7pt}
