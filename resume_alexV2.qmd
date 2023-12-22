@@ -81,7 +81,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Led team (5 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel ROI tables, and channel contribution charts for client delivery.
+* **Led team (5 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel contribution charts, and a simulation tool for client delivery.
 * Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, ServiceNow, Chickfila.
 
 \vspace{7pt}
