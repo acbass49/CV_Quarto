@@ -4,9 +4,10 @@ CWD=$(pwd)
 
 cd ~/OneDrive/Quarto/CV_Quarto
 
-quarto render resume_alex.qmd --to pdf
+quarto render resume_alexV2.qmd --to pdf
 
-mv resume_alex.pdf cv.pdf
+#using version 2 of my resume now
+mv resume_alexV2.pdf cv.pdf
 
 cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/files
 
