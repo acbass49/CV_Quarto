@@ -35,7 +35,7 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf University of Virgina}\end{flushleft}
+    \begin{flushleft}{\bf University of Virginia}\end{flushleft}
     \begin{flushright}Charlottesville, VA\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}

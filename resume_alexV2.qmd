@@ -38,7 +38,7 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}
       \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{images/university_of_virginia_logo.jpeg}
-      \hspace{1 mm} {\bf University of Virgina}\\
+      \hspace{1 mm} {\bf University of Virginia}\\
       \hspace{11 mm}Master of Science: Data Science
     \end{flushleft}
     \begin{flushright}
