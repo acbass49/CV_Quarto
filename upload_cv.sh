@@ -15,6 +15,8 @@ cp cv.pdf ~/Documents/Application_Materials/
 
 cp cv.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Documents/
 
+cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Documents/Applications/
+
 quarto render ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
 
 cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
