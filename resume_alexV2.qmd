@@ -190,7 +190,7 @@ format:
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}\textit{\href{https://alexbass.me/projects/election_model_2024/}{Live Dashboard - 2024 US Pres. Election Forecast}}\end{flushleft}
-    \begin{flushright}April 2020\end{flushright}
+    \begin{flushright}January 2024\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
