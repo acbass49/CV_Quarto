@@ -189,10 +189,10 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Political Message Detection and Likeability in Films}}\end{flushleft}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/election_model_2024/}{Live Dashboard of 2024 US Presidential Election}}\end{flushleft}
     \begin{flushright}April 2020\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* wrote and fielded survey instrument (n=1000) after receiving funding award from Political Science department.
-* estimated linear regression and multinomial logit in survey research context and wrote paper \href{https://alexbass.me/projects/star_wars_capstone/Capstone%20Project.pdf}{[here]} on findings.
+* Estimate daily a heirarchal bayesian regression model to generate candidate probabilities of election outcomes using latest quality polling data
+* Created a daily updated data pipeline using Python and Github Actions fed into Python visualizations in a Live Quarto Dashboard
