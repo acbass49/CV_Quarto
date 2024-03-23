@@ -82,7 +82,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 * **Led team (3 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel contribution charts, and a simulation tool for client delivery.
-* Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, ServiceNow, Chickfila.
+* Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, CVS, Chickfila.
 
 \vspace{7pt}
 
@@ -135,7 +135,7 @@ format:
       \includegraphics[trim=0 20mm 0 0,width=0.04\textwidth]{images/echelon_insights_logo.jpeg}
       \hspace{2 mm} \bf \href{https://echeloninsights.com/}{Echelon Insights}}\\
       \hspace{11 mm}
-      \textit{Research Analyst}
+      \textit{Data Analyst}
     \end{flushleft}
     \begin{flushright}
     \begin{small}(1yr 8mth)\end{small} April 2020-Nov 2021\\
