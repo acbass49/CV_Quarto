@@ -69,20 +69,38 @@ format:
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{
+      \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
+      \bf \href{https://about.meta.com}{Meta}}\\
+      \hspace{11 mm}
+      \textit{Data Scientist, Public Affairs (Contract)}
+    \end{flushleft}
+    \begin{flushright}
+    \begin{small}(1mth)\end{small} April 2024-Present\\
+    New York, NY
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Used causal inference methods to measure effectiveness of Meta's ad campaigns (e.g. diff-in-diff)
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/dynataglobal_logo.jpeg}
       \bf \href{https://www.dynata.com/}{Dynata}}\\
       \hspace{11 mm}
       \textit{Data Scientist, Marketing}
     \end{flushleft}
     \begin{flushright}
-    \begin{small}(1yr 6mth)\end{small} Aug 2022-Present\\
+    \begin{small}(1yr 8mth)\end{small} Aug 2022-April 2024\\
     Herndon, VA
     \end{flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.16cm}
 * **Led team (3 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel contribution charts, and a simulation tool for client delivery.
-* Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, CVS, Chickfila.
+* Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, CVS, Chickfila, and AT&T.
 
 \vspace{7pt}
 
@@ -150,28 +168,6 @@ format:
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 5TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{
-      \includegraphics[trim=-3mm 20mm 0 0,width=0.04\textwidth]{images/csed.jpeg}
-      \hspace{2 mm} \bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\\
-      \hspace{11 mm}
-      \textit{Research Fellow}
-    \end{flushleft}
-    \begin{flushright}
-    \begin{small}(1yr 5mth)\end{small} Dec 2018-April 2020\\
-    Provo, UT
-    \end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Designed and executed multiple survey experiments in original research projects
-* Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for AFS official report \href{https://csed.byu.edu/0000017e-2611-d5d4-a57f-277126ef0001/american-family-survey-2019-report-pdf}{[here]}, news outlets, and professor’s projects
-
-\vspace{7pt}
-
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
   \vspace{3pt}
@@ -179,7 +175,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 **Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
+**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Data Engineering
 
 \vspace{7pt}
 
