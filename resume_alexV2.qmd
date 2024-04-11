@@ -81,7 +81,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Used causal inference methods to measure effectiveness of Meta's ad campaigns (e.g. diff-in-diff)
+* Used **causal inference** methods to measure effectiveness of Meta's ad campaigns (e.g. diff-in-diff)
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
