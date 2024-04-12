@@ -175,7 +175,7 @@ format:
 \end{large}
 \vspace{-0.16cm}
 **Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Data Engineering
+**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 \vspace{7pt}
 
@@ -192,3 +192,15 @@ format:
 \end{large}
 * Estimate daily a heirarchal bayesian regression model to generate probabilities of election outcomes using latest polls
 * Created a live data pipeline with Github Actions and Python > Live Quarto Dashboard
+
+\vspace{7pt}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Star Wars: Political Messages and Likeability}}\end{flushleft}
+    \begin{flushright}January 2020\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+* Awarded $1500; wrote, fielded, analyzed original survey research project with [Prolific](https://www.prolific.com)
+* Observational study: answered research questions using multiple linear regression and multinomial logit regression.
