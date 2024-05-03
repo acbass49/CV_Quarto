@@ -72,7 +72,7 @@ format:
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
       \bf \href{https://about.meta.com}{Meta}}\\
       \hspace{11 mm}
-      \textit{Data Scientist V, Contractor}
+      \textit{Decision Scientist, Contractor}
     \end{flushleft}
     \begin{flushright}
     \begin{small}(1mth)\end{small} April 2024-Present\\
@@ -81,7 +81,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Used **causal inference** methods to measure effectiveness of Meta's ad campaigns (e.g. diff-in-diff) on Meta's marketing decision science team.
+* Worked on Meta's marketing decision science team. Used **causal inference** methods to measure effectiveness of Meta's ad campaigns (e.g. diff-in-diff) 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
