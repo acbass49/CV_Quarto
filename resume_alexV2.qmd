@@ -81,7 +81,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Worked on Meta's marketing decision science team using **causal inference** methods.
+* Worked on **Meta's marketing decision science team** using causal inference methods.
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
