@@ -128,7 +128,7 @@ format:
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{
-      \includegraphics[trim=0 21mm 0 0,width=0.05\textwidth]{images/morning_consult_logo.jpeg}
+      \includegraphics[trim=0 11mm 0 0,width=0.05\textwidth]{images/morning_consult_logo.jpeg}
       \hspace{1 mm} \bf \href{https://morningconsult.com/}{Morning Consult}}\\
       \hspace{11 mm}
       \textit{Senior Data Analyst}
