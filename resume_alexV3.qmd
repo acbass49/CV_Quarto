@@ -3,10 +3,10 @@ format:
   pdf: 
     documentclass: article
     geometry:
-      - top=10mm
+      - top=14mm
       - left=15mm
       - right=15mm
-      - bottom=5mm
+      - bottom=14mm
       - heightrounded
     fontfamily: libertine
     colorlinks: true
@@ -26,9 +26,12 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}acbass49@gmail.com ∙ \href{https://alexbass.me/projects.html}{Portfolio} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn}
+\begin{center}acbass49@gmail.com ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me}{Blog}
 \end{center}
-\vspace{15pt}
+\vspace{5pt}
+
+**Summary:** Data Scientist with 5 years of experience + graduate degree focusing on **surveys**, **marketing**, and **causal inference**  
+**Languages:** Python, R, SQL, Spark, Javascript (in this order)
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -81,8 +84,9 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Worked on **Meta's marketing decision science team** using causal inference methods.
-\vspace{7pt}
+* Worked on **Meta's marketing decision science team** focused on public affairs and policy elites. 
+* Analyzed on-platform experiment data and marketing campaign survey data; built tools around diff-in-d and funnel analysis.
+\vspace{0pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
@@ -122,7 +126,6 @@ format:
 \vspace{-0.16cm}
 * **Developed and automated wave-over-wave chi-squared tests on time series data** in 17 tracker surveys of 5 countries
 * Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
-* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists)
 
 \vspace{7pt}
 
@@ -144,7 +147,6 @@ format:
 \vspace{-0.16cm}
 * Led in modeling projects **predicting election turnout for entire U.S. in 2022** analyzing over 460 million records.
 * Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
-* Using R Shiny, built a codeless-crosstab tool for company’s research team
 
 \vspace{7pt}
 
@@ -153,19 +155,8 @@ format:
   \vspace{3pt}
   \hrule
 \end{large}
-\vspace{-0.16cm}
-[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **Python package** with convenient functions for creating weighted crosstabs, recoding variables, and weighting surveys. This package is available through `pip` and [PyPI](https://pypi.org/project/survey-tools/).
-
-\vspace{7pt}
-
-<!-- SKILLS -->
-\begin{large}{\bf SKILLS}
-  \vspace{3pt}
-  \hrule
-\end{large}
-\vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
+\vspace{-0.1cm}
+[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **Python package for survey reseachers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available through `pip` and [PyPI](https://pypi.org/project/survey-tools/).
 
 \vspace{7pt}
 
@@ -182,6 +173,18 @@ format:
 \end{large}
 * Estimate daily a heirarchal bayesian regression model to generate probabilities of election outcomes using latest polls
 * Created a live data pipeline with Github Actions and Python > Live Quarto Dashboard
+
+\vspace{7pt}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/internet_archive/}{Entity Resolution with Gradient Boosted Trees}}\end{flushleft}
+    \begin{flushright}May 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+
+* **Solved entity resolution problem** linking sparse wikipedia references to Internet Archive API Database References.
+* Implemented model in Python \href{https://github.com/acbass49/wiki2ia}{[here]} which, given a wikipedia reference, will return a match in the Internet Archive Database along with a probability of matching.
 
 \vspace{7pt}
 \begin{large}
