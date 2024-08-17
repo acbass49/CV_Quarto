@@ -30,7 +30,7 @@ format:
 \end{center}
 \vspace{5pt}
 
-**Summary:** Data Scientist with 5 years of experience + graduate degree focusing on **surveys**, **marketing**, and **causal inference**  
+**Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **marketing**, and **causal inference**  
 **Languages:** Python, R, SQL, Spark, Javascript (in this order)
 
 <!-- EDUCATION: 1ST BULLET -->
