@@ -156,7 +156,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.1cm}
-[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **Python package for survey reseachers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available through `pip` and [PyPI](https://pypi.org/project/survey-tools/).
+[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **Python package for survey reseachers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available on [github](https://github.com/acbass49/survey_tools) and [PyPI](https://pypi.org/project/survey-tools/).
 
 \vspace{7pt}
 
