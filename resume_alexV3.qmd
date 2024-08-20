@@ -156,7 +156,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.1cm}
-[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **Python package for survey reseachers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available on [github](https://github.com/acbass49/survey_tools) and [PyPI](https://pypi.org/project/survey-tools/).
+[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **python package for survey researchers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available on [github](https://github.com/acbass49/survey_tools) and [PyPI](https://pypi.org/project/survey-tools/).
 
 \vspace{7pt}
 
@@ -171,7 +171,7 @@ format:
   \end{multicols}
   \vspace{-0.17cm}
 \end{large}
-* Estimate daily a heirarchal bayesian regression model to generate probabilities of election outcomes using latest polls
+* Estimate daily a heirarchal bayesian beta regression model to generate probabilities of election outcomes using latest polls
 * Created a live data pipeline with Github Actions and Python > Live Quarto Dashboard
 
 \vspace{7pt}
