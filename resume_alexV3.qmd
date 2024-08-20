@@ -84,8 +84,8 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Worked on **Meta's marketing decision science team** focused on public affairs and policy elites. 
-* Analyzed on-platform experiment data and marketing campaign survey data; built tools around diff-in-d and funnel analysis.
+* Built tools on **Meta's marketing decision science team** analyzing ads for public affairs and policy elites. 
+* Analyzed on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis.
 \vspace{0pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
