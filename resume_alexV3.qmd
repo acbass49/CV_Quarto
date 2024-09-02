@@ -33,39 +33,6 @@ format:
 **Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **marketing**, and **causal inference**  
 **Languages:** Python, R, SQL, Spark, Javascript (in this order)
 
-<!-- EDUCATION: 1ST BULLET -->
-\begin{large}
-  {\bf EDUCATION}
-  \vspace{3pt}
-  \hrule
-  \begin{multicols}{2}
-    \begin{flushleft}
-      \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{images/university_of_virginia_logo.jpeg}
-      \hspace{1 mm} {\bf University of Virginia}\\
-      \hspace{11 mm}Master of Science: Data Science
-    \end{flushleft}
-    \begin{flushright}
-    Charlottesville, VA
-    \end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{0.05cm}
-
-<!-- EDUCATION: 2ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}
-      \includegraphics[trim=0 11mm 0 0,width=0.04\textwidth]{images/brigham_young_university_logo.jpeg}
-      \hspace{1 mm} {\bf Brigham Young University}\\
-      \hspace{11 mm}Bachelor of Arts: Political Science
-    \end{flushleft}
-    \begin{flushright}
-    Provo, UT
-    \end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{1.5pt}
-
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
   \vspace{3pt}
@@ -84,7 +51,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built tools on **Meta's marketing decision science team** analyzing ads for public affairs and policy elites. 
+* Built python tools on **Meta's marketing decision science team** analyzing ads for public affairs and policy elites. 
 * Analyzed on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis.
 \vspace{0pt}
 
@@ -151,14 +118,47 @@ format:
 \vspace{7pt}
 
 <!-- SOFTWARE -->
-\begin{large}{\bf SOFTWARE}
+\begin{large}{\bf OPEN-SOURCE SOFTWARE}
   \vspace{3pt}
   \hrule
 \end{large}
 \vspace{-0.1cm}
-[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **python package for survey researchers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available on [github](https://github.com/acbass49/survey_tools) and [PyPI](https://pypi.org/project/survey-tools/).
+[*survey_tools*](https://github.com/acbass49/survey_tools) - Creator and Maintainer of an open-source **python package for survey researchers** with convenient functions for weighted crosstabs, recoding variables, and weighting surveys. This package is available on github [[here]](https://github.com/acbass49/survey_tools) and PyPI [[here]](https://pypi.org/project/survey-tools/).
 
 \vspace{7pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{images/university_of_virginia_logo.jpeg}
+      \hspace{1 mm} {\bf University of Virginia}\\
+      \hspace{11 mm}Master of Science: Data Science
+    \end{flushleft}
+    \begin{flushright}
+    Charlottesville, VA
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 11mm 0 0,width=0.04\textwidth]{images/brigham_young_university_logo.jpeg}
+      \hspace{1 mm} {\bf Brigham Young University}\\
+      \hspace{11 mm}Bachelor of Arts: Political Science
+    \end{flushleft}
+    \begin{flushright}
+    Provo, UT
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{1.5pt}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
