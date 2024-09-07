@@ -51,7 +51,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built python tools on **Meta's marketing decision science team** analyzing ads for public affairs and policy elites. 
+* Built python tools on **Meta's marketing decision science team** analyzing ads for latest Meta AI campaigns. 
 * Analyzed on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis.
 \vspace{0pt}
 
