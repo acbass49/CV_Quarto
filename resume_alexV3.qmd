@@ -42,17 +42,17 @@ format:
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
       \bf \href{https://about.meta.com}{Meta}}\\
       \hspace{11 mm}
-      \textit{Data Scientist V (contract)}
+      \textit{Data Scientist, L5 (contract)}
     \end{flushleft}
     \begin{flushright}
-    \begin{small}(6mth)\end{small} April 2024-Present\\
+    \begin{small}(10mth)\end{small} April 2024-Present\\
     New York, NY
     \end{flushright}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* Built python tools on **Meta's marketing decision science team** analyzing ads for latest Meta AI campaigns. 
-* Analyzed on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis.
+* **Analyzed channel ad impact for latest Meta AI campaigns** on Meta's marketing data science team. 
+* Used on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis, attribution.
 \vspace{0pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
