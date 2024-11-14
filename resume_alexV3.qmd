@@ -6,7 +6,7 @@ format:
       - top=14mm
       - left=15mm
       - right=15mm
-      - bottom=14mm
+      - bottom=10mm
       - heightrounded
     fontfamily: libertine
     colorlinks: true
@@ -26,7 +26,7 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}\href{mailto::hello@alexbass.me}{hello@alexbass.me} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me}{Blog}
+\begin{center}\href{mailto::hello@alexbass.me}{hello@alexbass.me} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me/projects}{Projects}
 \end{center}
 \vspace{5pt}
 
@@ -51,7 +51,7 @@ format:
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Analyzed channel ad impact for latest Meta AI campaigns** on Meta's marketing data science team. 
+* **Analyzed channel ad impact for latest Meta AI campaigns in Europe** using python and advanced regression techniques. 
 * Used on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis, attribution.
 \vspace{0pt}
 
@@ -70,6 +70,7 @@ format:
     \end{flushright}
   \end{multicols}
 \end{large}
+* Worked on Meta, Google, and CVS account in data science capacity.
 * **Led team (3 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel contribution charts, and a simulation tool for client delivery.
 * Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, CVS, Chickfila, and AT&T.
 
