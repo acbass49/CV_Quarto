@@ -26,11 +26,11 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}\href{mailto::hello@alexbass.me}{hello@alexbass.me} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me/projects}{Projects}
+\begin{center}\href{mailto::acbass9@gmail.com}{acbass49@gmail.com} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me/projects}{Projects}
 \end{center}
 \vspace{5pt}
 
-**Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **marketing**, and **causal inference**  
+**Summary:** Data Scientist with graduate degree + 5 years of experience focusing on **surveys**, **A/B tests**, and **marketing**  
 **Languages:** Python, R, SQL, Spark, Javascript (in this order)
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -45,14 +45,14 @@ format:
       \textit{Data Scientist, L5 (contract)}
     \end{flushleft}
     \begin{flushright}
-    \begin{small}(10mth)\end{small} April 2024-Present\\
+    \begin{small}(10mth)\end{small} April 2024-January 2025\\
     New York, NY
     \end{flushright}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Analyzed channel ad impact for latest Meta AI campaigns in Europe** using python and advanced regression techniques. 
-* Used on-platform experiment data and marketing campaign survey data; Keywords: diff-in-diff, funnel analysis, attribution.
+* **Analyzed ad impact via A/B tests and causal inference techniques for latest Meta AI campaigns in Europe and Teen Instagram accounts in the US**. 
+* Used on-platform A/B experiment data and marketing campaign survey data to measure and track user sentiment on a dashboard I built with a DE.
 \vspace{0pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
@@ -70,9 +70,8 @@ format:
     \end{flushright}
   \end{multicols}
 \end{large}
-* Worked on Meta, Google, and CVS account in data science capacity.
-* **Led team (3 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys.** Outputing lift curves, channel contribution charts, and a simulation tool for client delivery.
-* Regularly deliver advanced analytical studies (diff-in-diff, dominance analysis, time series, MTA). In total, delivered over 100 of these studies to clients including Google, Meta, CVS, Chickfila, and AT&T.
+* **Analyzed A/B Tests (and Diff-in-Diff at times) to measure marketing incrementality in over 40 studies on the Meta, Google, and CVS accounts.**
+* Led team (3 DS) to build a bayesian multi-touch attribution (PYMC) product measuring effectiveness of ad campaigns on brand lift surveys by channel. Outputing lift curves, channel contribution charts, and a simulation tool.
 
 \vspace{7pt}
 
