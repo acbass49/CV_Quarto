@@ -40,7 +40,7 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}{
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
-      \bf \href{https://about.meta.com}{Meta}}\\
+      \bf \href{https://about.meta.com}{Crystal Equations [at] Meta}}\\
       \hspace{11 mm}
       \textit{Data Scientist, L5 (contract)}
     \end{flushleft}
