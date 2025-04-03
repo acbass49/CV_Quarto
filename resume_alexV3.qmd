@@ -26,7 +26,7 @@ format:
 \begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}\href{mailto::acbass9@gmail.com}{acbass49@gmail.com} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me/projects}{Projects}
+\begin{center}\href{mailto::acbass9@gmail.com}{acbass49@gmail.com} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn} ∙ \href{https://alexbass.me/}{Personal Website}
 \end{center}
 \vspace{5pt}
 
@@ -40,20 +40,38 @@ format:
   \begin{multicols}{2}
     \begin{flushleft}{
       \includegraphics[trim=0 21mm 0 0,width=0.06\textwidth]{images/facebook_logo.jpeg}
-      \bf \href{https://about.meta.com}{Crystal Equations [at] Meta}}\\
+      \bf \href{https://about.meta.com}{Meta}}\\
       \hspace{11 mm}
-      \textit{Data Scientist, L5 (contract)}
+      \textit{Data Scientist (contract) Marketing DS Team}
     \end{flushleft}
     \begin{flushright}
-    \begin{small}(10mth)\end{small} April 2024-January 2025\\
-    New York, NY
+    \begin{small}(1yr)\end{small} April 2025-April 2026\\
+    Remote
     \end{flushright}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Analyzed ad impact via A/B tests and causal inference techniques for latest Meta AI campaigns in Europe and Teen Instagram accounts in the US**. 
-* Used on-platform A/B experiment data and marketing campaign survey data to measure and track user sentiment on a dashboard I built with a DE.
+* **Analyzed ad incrementality** via AB testing and causal inference techniques (DiD) for latest Meta marketing campaigns. 
+*This contract for Meta was through [Tundra Technical Solutions](https://www.tundratechnical.ca/)*
+\vspace{2pt}
+
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{11 mm}
+      \textit{Data Scientist (contract) Public Affairs Team}
+    \end{flushleft}
+    \begin{flushright}
+    \begin{small}(10mth)\end{small} April 2024-Jan 2025
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+* **Implemented "Connection Scores" in a marketing funnel showing which factors influence use of Meta AI**. 
+* Used on-platform A/B experiment data and marketing campaign survey data to measure and track user public affairs sentiment on a dashboard I built with a DE.  
+*This contract for Meta was through [Crystal Equation](https://www.crystalequation.com/)*
 \vspace{0pt}
+
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
@@ -183,17 +201,5 @@ format:
   \vspace{-0.17cm}
 \end{large}
 
-* **Solved entity resolution problem** linking sparse wikipedia references to Internet Archive API Database References.
+* **Solved entity resolution problem** linking unstructured, sparse wikipedia references to Internet Archive API Database References.
 * Implemented model in Python \href{https://github.com/acbass49/wiki2ia}{[here]} which, given a wikipedia reference, will return a match in the Internet Archive Database along with a probability of matching.
-
-\vspace{7pt}
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Star Wars: Political Messages and Likeability}}\end{flushleft}
-    \begin{flushright}January 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-\end{large}
-
-* Awarded $1500; wrote, fielded, analyzed original survey research project with [Prolific](https://www.prolific.com)
-* Observational study: answered research questions using multiple linear regression and multinomial logit regression.
